@@ -1,0 +1,3 @@
+rootProject.name = 'weaplus_3108'
+
+include ':app'
